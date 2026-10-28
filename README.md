@@ -1,4 +1,4 @@
-# Expert Call Analyzer — Hasamex AI Engineer Case
+# Expert Call Analyzer — Hasamex AI Engineer Case.   
 
 Analyzes 3 expert-call transcripts (robotic surgery market research) to:
 answer interview-guide questions per expert, extract exact quotes with
